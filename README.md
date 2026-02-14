@@ -112,6 +112,14 @@ Example output:
 }
 ```
 
+## Output
+The files in `data/sample_output` show the results of a few toy runs. The output files contain quite a few fields, most of which are self-evident. A few are especially relevant, though.
+ - `normalized_name` vs `linkedin_display_name`: The first is the version of the name ChatGPT guessed. The second is the version found in the LinkedIn record. So if `linkedin_display_name` is present, this is probably what you want.
+ - `linkedin_confidence`: The model's assessment in its confidence that this LinkedIn page is a correct match to your input.
+ - `classification`: This shows which of the controled vocab labels the model chose, as well as its confidence for that label.
+ - `alternates`: If ChatGPT thinks other LinkedIn pages are plausible matches, they'll be listed here.
+
+
 ## How to Expand / Improve
 This program uses a 2-step approach to the problem. In Step 1 we ask OpenAI to match a company name to a LinkedIn profile. Given the output of the first pass, Step 2 tries to assign the company to one of our preexisting class labels. Given this setup, there are two OpenAI/ChatGPT prompts you can tweak to change the model's behavior.
 
