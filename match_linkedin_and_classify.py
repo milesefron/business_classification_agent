@@ -383,7 +383,7 @@ def parse_args(argv: List[str]) -> argparse.Namespace:
 
 
 def main(argv: List[str]) -> int:
-    load_dotenv()
+    load_dotenv(override=True)
 
     if not os.getenv("OPENAI_API_KEY"):
         print("Missing OPENAI_API_KEY (set it in .env or env).", file=sys.stderr)
