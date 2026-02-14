@@ -1,0 +1,25 @@
+{
+  "input_name": "Amazon Web Services",
+  "normalized_name": "Amazon Web Services",
+  "linkedin_url": "https://www.linkedin.com/company/amazon-web-services/",
+  "linkedin_display_name": "Amazon Web Services (AWS)",
+  "linkedin_confidence": 0.99,
+  "evidence_summary": "Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments.",
+  "classification": {
+    "label": "Technology",
+    "confidence": 0.95
+  },
+  "rationale": "The evidence summary states that Amazon Web Services (AWS) provides on-demand cloud computing platforms and APIs, which are core offerings in the technology sector, specifically in IT services and cloud/hosting. There is strong evidence that AWS fits the 'Technology' label.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/company/aws-startups/",
+      "display_name": "AWS Startups",
+      "confidence": 0.7
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/aws-activate/",
+      "display_name": "AWS Activate",
+      "confidence": 0.6
+    }
+  ]
+}

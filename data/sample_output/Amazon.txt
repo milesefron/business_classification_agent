@@ -1,0 +1,25 @@
+{
+  "input_name": "Amazon",
+  "normalized_name": "Amazon",
+  "linkedin_url": "https://www.linkedin.com/company/amazon/",
+  "linkedin_display_name": "Amazon",
+  "linkedin_confidence": 1.0,
+  "evidence_summary": "Amazon is a global technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the world's largest online retailers and cloud service providers.",
+  "classification": {
+    "label": "Technology",
+    "confidence": 0.9
+  },
+  "rationale": "The evidence summary describes Amazon as a global technology company with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence. While it is also a major online retailer, its significant operations in cloud computing and technology-driven services make 'Technology' the most appropriate label with strong evidence.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/company/amazon-web-services/",
+      "display_name": "Amazon Web Services (AWS)",
+      "confidence": 0.9
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/amazon-uk/",
+      "display_name": "Amazon UK",
+      "confidence": 0.7
+    }
+  ]
+}
