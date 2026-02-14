@@ -112,5 +112,17 @@ Example output:
 }
 ```
 
+## How to Expand / Improve
+This program uses a 2-step approach to the problem. In Step 1 we ask OpenAI to match a company name to a LinkedIn profile. Given the output of the first pass, Step 2 tries to assign the company to one of our preexisting class labels. Given this setup, there are two OpenAI/ChatGPT prompts you can tweak to change the model's behavior.
+
+The two prompts are labeled in the code with a comment that says: Prompts.
+
+To find the Step 1 specificially, go to the function called `resolve_prompt`. 
+
+To find the Step 2 prompt, go to the function called `classify_prompt`.
+
+N.B. If you change these prompts, be careful not to change the kinds of data they ask for. For example, the resolve_prompt currently asks for a short summary of about the company. This summary is used downstream, so best not to stop asking for it. But you can safely change most of the wording of these prompts to aim at better results.
+
+
 ## License
 Internal use / private project
