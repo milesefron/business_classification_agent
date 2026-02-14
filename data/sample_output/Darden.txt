@@ -1,0 +1,20 @@
+{
+  "input_name": "University of Virginia, Darden School of Business",
+  "normalized_name": "University of Virginia Darden School of Business",
+  "linkedin_url": "https://www.linkedin.com/company/darden-school-of-business/",
+  "linkedin_display_name": "Darden School of Business",
+  "linkedin_confidence": 0.98,
+  "evidence_summary": "The Darden School of Business is the graduate business school of the University of Virginia, offering MBA, executive education, and other business programs.",
+  "classification": {
+    "label": "Education",
+    "confidence": 0.98
+  },
+  "rationale": "The evidence clearly states that the Darden School of Business is a graduate business school offering MBA and executive education programs, which directly aligns with the Education category. There is no indication that its primary function is anything other than education.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/school/university-of-virginia-darden-school-of-business/",
+      "display_name": "University of Virginia Darden School of Business",
+      "confidence": 0.95
+    }
+  ]
+}

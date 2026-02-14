@@ -1,0 +1,25 @@
+{
+  "input_name": "University of Virginia",
+  "normalized_name": "University of Virginia",
+  "linkedin_url": "https://www.linkedin.com/company/university-of-virginia/",
+  "linkedin_display_name": "University of Virginia",
+  "linkedin_confidence": 0.99,
+  "evidence_summary": "The University of Virginia is a public research university located in Charlottesville, Virginia, offering undergraduate, graduate, and professional degrees across a wide range of disciplines.",
+  "classification": {
+    "label": "Education",
+    "confidence": 0.99
+  },
+  "rationale": "The evidence summary clearly states that the University of Virginia is a public research university offering degrees across various disciplines, which directly aligns with the Education category. There is strong evidence to support this classification.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/company/uva-health/",
+      "display_name": "UVA Health",
+      "confidence": 0.7
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/darden-school-of-business/",
+      "display_name": "University of Virginia Darden School of Business",
+      "confidence": 0.7
+    }
+  ]
+}
