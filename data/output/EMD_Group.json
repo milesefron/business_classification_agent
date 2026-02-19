@@ -1,0 +1,30 @@
+{
+  "input_name": "\"EMD Group \"",
+  "normalized_name": "EMD Group",
+  "linkedin_url": "https://www.linkedin.com/company/emd-affiliates-of-merck-kgaa-darmstadt-germany",
+  "linkedin_display_name": "Merck KGaA, Darmstadt, Germany",
+  "linkedin_confidence": 0.9,
+  "evidence_summary": "Merck KGaA, Darmstadt, Germany, operates globally in Life Science, Healthcare, and Electronics sectors, providing products and services to accelerate scientific breakthroughs, develop life-changing therapies, and advance digital living.",
+  "classification": {
+    "label": "Pharma/Biotech/Healthcare",
+    "confidence": 0.9
+  },
+  "rationale": "The evidence summary states that Merck KGaA (EMD Group) operates in Life Science and Healthcare, providing products and services to accelerate scientific breakthroughs and develop life-changing therapies. These activities are core to the Pharma/Biotech/Healthcare category, even though the company also has an Electronics sector. The primary emphasis in the summary is on healthcare and life sciences, which justifies this classification with strong confidence.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/company/emd-electronics",
+      "display_name": "EMD Electronics",
+      "confidence": 0.8
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/emd-serono-inc",
+      "display_name": "EMD Serono, Inc.",
+      "confidence": 0.8
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/emd-ag",
+      "display_name": "EMD AG",
+      "confidence": 0.7
+    }
+  ]
+}

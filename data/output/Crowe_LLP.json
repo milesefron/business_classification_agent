@@ -1,0 +1,25 @@
+{
+  "input_name": "\"Crowe LLP \"",
+  "normalized_name": "Crowe",
+  "linkedin_url": "https://www.linkedin.com/company/crowe/",
+  "linkedin_display_name": "Crowe",
+  "linkedin_confidence": 0.98,
+  "evidence_summary": "Crowe is a public accounting, consulting, and technology firm that provides audit, tax, advisory, risk, and performance services to various industries.",
+  "classification": {
+    "label": "Consulting",
+    "confidence": 0.9
+  },
+  "rationale": "The evidence summary describes Crowe as a public accounting, consulting, and technology firm providing audit, tax, advisory, risk, and performance services. The primary business activities align with consulting, particularly management and advisory services, which fits the 'Consulting' label best. While they also offer accounting and technology services, their core offering is advisory/consulting to other organizations.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/company/crowe-uk-llp/",
+      "display_name": "Crowe UK LLP",
+      "confidence": 0.85
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/crowe-mac/",
+      "display_name": "Crowe MacKay LLP",
+      "confidence": 0.8
+    }
+  ]
+}

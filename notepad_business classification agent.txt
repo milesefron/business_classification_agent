@@ -1,0 +1,21 @@
+# business_classification_agent
+
+PS C:\Users\efronm\Desktop\business_classification_agent> python .\match_linkedin_and_classify.py --vocab .\data\vocab.darden.long.json "Apple, Inc."
+{
+  "input_name": "Apple, Inc.",
+  "normalized_name": "Apple",
+  "linkedin_url": "https://www.linkedin.com/company/apple/",
+  "linkedin_display_name": "Apple",
+  "linkedin_confidence": 1.0,
+  "evidence_summary": "Apple is a global technology company known for designing, manufacturing, and selling consumer electronics, software, and online services, including the iPhone, Mac, iPad, and Apple Watch.",       
+  "classification": {
+    "label": "Technology/Telecom",
+    "confidence": 0.95
+  },
+  "rationale": "The evidence summary states that Apple is a global technology company known for designing, manufacturing, and selling consumer electronics, software, and online services. Its primary business is in technology products and platforms, which aligns directly with the Technology/Telecom category.",
+  
+  #the last part is the csv you want to pull from
+  PS C:\Users\efronm\Desktop\business_classification_agent> python .\match_linkedin_and_classify_csv.py --vocab .\data\vocab.darden.long.json .\data\sample_pending_employers.csv
+  
+  #try with 10-15 employers where you have more data so you can double-check the LinkedIn URLs
+  

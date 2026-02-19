@@ -1,0 +1,14 @@
+{
+  "input_name": "\"Brunswick Corporation \"",
+  "normalized_name": "Brunswick Corporation",
+  "linkedin_url": "https://www.linkedin.com/company/brunswick-corporation/",
+  "linkedin_display_name": "Brunswick Corporation",
+  "linkedin_confidence": 1.0,
+  "evidence_summary": "Brunswick Corporation is a global leader in marine recreation, delivering innovation that transforms experiences on the water and beyond. Headquartered in Mettawa, IL, Brunswick has approximately 19,000 employees operating in 27 countries. The company is home to more than 60 industry-leading brands, including Mercury Marine, Sea Ray, and Boston Whaler.",
+  "classification": {
+    "label": "Manufacturing",
+    "confidence": 0.9
+  },
+  "rationale": "The evidence indicates that Brunswick Corporation is a global leader in marine recreation and is home to brands such as Mercury Marine, Sea Ray, and Boston Whaler, all of which are known for manufacturing boats and marine engines. The company's primary business is producing physical goods (boats, engines, marine equipment), which aligns with the Manufacturing category.",
+  "alternates": []
+}

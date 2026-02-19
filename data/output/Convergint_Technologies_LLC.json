@@ -1,0 +1,14 @@
+{
+  "input_name": "\"Convergint Technologies LLC \"",
+  "normalized_name": "Convergint Technologies",
+  "linkedin_url": "https://www.linkedin.com/company/convergint",
+  "linkedin_display_name": "Convergint",
+  "linkedin_confidence": 1.0,
+  "evidence_summary": "Convergint Technologies is a global service-based systems integrator specializing in electronic security, fire alarm and life safety, healthcare technologies, communications, and building automation. Founded in 2001 and headquartered in Schaumburg, Illinois, the company employs over 10,000 professionals worldwide. Convergint is recognized for its unique culture and commitment to service excellence, aiming to be its customers' best service provider.",
+  "classification": {
+    "label": "Other Services",
+    "confidence": 0.85
+  },
+  "rationale": "Convergint Technologies is described as a global service-based systems integrator specializing in electronic security, fire alarm and life safety, healthcare technologies, communications, and building automation. Their primary business is providing integration and service solutions for building systems, not manufacturing products or developing proprietary technology platforms. This fits best under 'Other Services' as they deliver specialized professional services related to building systems integration, rather than consulting, technology/telecom, or manufacturing.",
+  "alternates": []
+}

@@ -1,0 +1,25 @@
+{
+  "input_name": "\"Draeger, Inc. \"",
+  "normalized_name": "Dräger",
+  "linkedin_url": "https://www.linkedin.com/company/draeger/",
+  "linkedin_display_name": "Dräger",
+  "linkedin_confidence": 0.9,
+  "evidence_summary": "Dräger is an international leader in medical and safety technology, offering products such as anaesthesia workstations, medical ventilation, patient monitoring, and neonatal care equipment. Founded in Lübeck, Germany, in 1889, the company operates in over 190 countries and employs more than 16,000 people worldwide.",
+  "classification": {
+    "label": "Pharma/Biotech/Healthcare",
+    "confidence": 0.95
+  },
+  "rationale": "The evidence states that Dräger is an international leader in medical and safety technology, offering products such as anaesthesia workstations, medical ventilation, patient monitoring, and neonatal care equipment. These are all healthcare-related products, and the company's primary business is in the medical technology sector, which fits squarely within the Pharma/Biotech/Healthcare category.",
+  "alternates": [
+    {
+      "linkedin_url": "https://www.linkedin.com/company/draeger-safety-inc",
+      "display_name": "Draeger Safety Inc.",
+      "confidence": 0.7
+    },
+    {
+      "linkedin_url": "https://www.linkedin.com/company/draeger%27s-markets",
+      "display_name": "Draeger's Markets",
+      "confidence": 0.5
+    }
+  ]
+}
