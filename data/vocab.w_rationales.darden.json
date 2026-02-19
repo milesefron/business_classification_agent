@@ -1,0 +1,84 @@
+{
+  "labels": [
+    {
+      "label": "Consulting",
+      "rationale": "Management consulting, strategy firms, operations consulting, IT consulting, and advisory services where the primary business is advising other organizations on strategy, operations, finance, technology, or transformation."
+    },
+    {
+      "label": "Consumer Packaged Goods",
+      "rationale": "Companies that produce and sell branded consumer products (food, beverages, personal care, household goods) typically distributed through retail channels; brand management and product marketing roles are common MBA paths."
+    },
+    {
+      "label": "Energy",
+      "rationale": "Oil & gas, utilities, renewable energy, power generation, energy infrastructure, energy trading, and companies primarily involved in producing or distributing energy."
+    },
+    {
+      "label": "Financial Services: Hedge/Mutual Fund",
+      "rationale": "Asset management firms managing pooled investment funds (hedge funds, mutual funds, ETFs) where the core function is active portfolio management and securities investment."
+    },
+    {
+      "label": "Financial Services: IB",
+      "rationale": "Investment banks focused on M&A advisory, capital raising (equity and debt underwriting), restructuring, and corporate finance advisory services."
+    },
+    {
+      "label": "Financial Services: Invsmt Mgmt",
+      "rationale": "Traditional investment management firms managing assets for institutions or individuals (excluding hedge funds if separately categorized); includes portfolio management and asset allocation firms."
+    },
+    {
+      "label": "Financial Services: Vent Cap/Priv Eqty",
+      "rationale": "Venture capital and private equity firms investing directly in private companies, growth equity, leveraged buyouts, and startup funding."
+    },
+    {
+      "label": "Financial Services",
+      "rationale": "Banks, insurance companies, fintech firms primarily offering financial products, commercial lending, credit services, payments, and diversified financial institutions not better classified under a more specific financial category."
+    },
+    {
+      "label": "Government",
+      "rationale": "Federal, state, local, or international government agencies and public authorities; includes regulatory bodies and public policy organizations where employment is within the public sector."
+    },
+    {
+      "label": "Hospitality/Tourism",
+      "rationale": "Hotels, resorts, travel companies, airlines, cruise lines, tourism operators, and businesses centered on travel and guest services."
+    },
+    {
+      "label": "Manufacturing",
+      "rationale": "Companies primarily engaged in producing physical goods at scale (industrial equipment, automotive, electronics hardware, consumer products) where operations, production, and supply chain are core functions."
+    },
+    {
+      "label": "Media/Entertainment",
+      "rationale": "Television, film, streaming platforms, publishing, digital media, music, gaming, and content production companies where content creation and distribution are the primary business."
+    },
+    {
+      "label": "Not For Profit/Education",
+      "rationale": "Nonprofit organizations, foundations, NGOs, charities, and educational institutions (universities, schools) where the core mission is public benefit rather than profit."
+    },
+    {
+      "label": "Other Industry",
+      "rationale": "Use when the company operates in a clearly defined industry that does not fit any listed category and does not align cleanly with finance, technology, retail, or other specified sectors."
+    },
+    {
+      "label": "Other Services",
+      "rationale": "Professional or business services firms not covered under consulting or financial services (e.g., staffing firms, facilities management, specialized service providers)."
+    },
+    {
+      "label": "Pharma/Biotech/Healthcare",
+      "rationale": "Pharmaceutical companies, biotech firms, hospitals, healthcare providers, medical device manufacturers, and healthcare services organizations."
+    },
+    {
+      "label": "Real Estate",
+      "rationale": "Real estate development, property management, REITs, commercial real estate brokerage, and real estate investment firms where property ownership or development is the core business."
+    },
+    {
+      "label": "Retail",
+      "rationale": "Companies that sell goods directly to consumers through physical stores or e-commerce platforms, excluding manufacturers unless retail is the primary business model."
+    },
+    {
+      "label": "Technology/Telecom",
+      "rationale": "Software companies, SaaS providers, IT services, cloud infrastructure firms, telecommunications providers, hardware technology companies, and digital platforms."
+    },
+    {
+      "label": "Transportation & Logistics Services",
+      "rationale": "Freight carriers, logistics providers, supply chain services, shipping companies, warehousing and distribution firms where moving goods or managing logistics is the core function."
+    }
+  ]
+}
