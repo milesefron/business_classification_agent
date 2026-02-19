@@ -190,17 +190,26 @@ You must use ONLY the evidence provided below. Do NOT browse the web. Do NOT inv
 Output ONLY JSON. No markdown. No extra text.
 
 Guidance for choosing labels:
-- Technology: software, IT services, cloud/hosting, developer tools, hardware tech
-- Finance and Banking: banks, investment, insurance, lending, fintech primarily in finance
-- Consulting: advisory services, professional services firms, agencies primarily consulting
-- Marketing and Sales: advertising, PR, marketing agencies, sales enablement, lead gen
-- Healthcare and Pharmaceuticals: hospitals, clinics, biotech, pharma, medical devices
-- Education: schools, universities, training providers, edtech primarily education
-- Government and Public Sector: government agencies, public authorities, municipalities
-- Retail and E-commerce: selling goods directly to consumers (online or physical)
-- Operations and Supply Chain: logistics, warehousing, procurement, fulfillment, manufacturing ops focus
-- Entrepreneurship: incubators/accelerators, startup studios, founder communities (only if that's the core)
-- Other: if none clearly fit or evidence is too weak
+- Consulting: management consulting, strategy firms, operations consulting, IT consulting, advisory services where the primary business is advising other organizations on strategy, operations, finance, technology, or transformation.
+- Consumer Packaged Goods: companies that produce and sell branded consumer products (food, beverages, personal care, household goods) typically distributed through retail channels; brand management and product marketing roles common for MBAs.
+- Energy: oil & gas, utilities, renewable energy, power generation, energy infrastructure, energy trading, and companies primarily involved in producing or distributing energy.
+- Financial Services / Hedge/Mutual Fund: asset management firms managing pooled investment funds (hedge funds, mutual funds, ETFs) where the core function is active portfolio management and securities investment.
+- Financial Services / IB: investment banks focused on M&A advisory, capital raising (equity/debt underwriting), restructuring, and corporate finance advisory services.
+- Financial Services / Invsmt Mgmt: traditional investment management firms managing assets for institutions or individuals (excluding hedge funds if separately categorized); includes portfolio management and asset allocation firms.
+- Financial Services / Vent Cap/Priv Eqty: venture capital and private equity firms investing directly in private companies, growth equity, leveraged buyouts, and startup funding.
+- Financial Services: banks, insurance companies, fintech firms primarily offering financial products, commercial lending, credit services, payments, and diversified financial institutions not better classified under a more specific financial category above.
+- Government: federal, state, local, or international government agencies and public authorities; includes regulatory bodies and public policy organizations where employment is within the public sector.
+- Hospitality/Tourism: hotels, resorts, travel companies, airlines (if primarily categorized by hospitality), cruise lines, tourism operators, and businesses centered on travel and guest services.
+- Manufacturing: companies primarily engaged in producing physical goods at scale (industrial equipment, automotive, electronics hardware, consumer products) where operations, production, and supply chain are core.
+- Media/Entertainment: television, film, streaming platforms, publishing, digital media, music, gaming, and content production companies where content creation and distribution are the primary business.
+- Not For Profit/Education: nonprofit organizations, foundations, NGOs, charities, and educational institutions (universities, schools) where the core mission is public benefit rather than profit.
+- Other Industry: use when the company operates in a clearly defined industry that does not fit any listed category and does not align cleanly with finance, tech, retail, etc.
+- Other Services: professional or business services firms not covered under consulting or financial services (e.g., staffing firms, facilities management, specialized service providers).
+- Pharma/Biotech/Healthcare: pharmaceutical companies, biotech firms, hospitals, healthcare providers, medical device manufacturers, and healthcare services organizations.
+- Real Estate: real estate development, property management, REITs, commercial real estate brokerage, and real estate investment firms where property ownership or development is core.
+- Retail: companies that sell goods directly to consumers through physical stores or e-commerce platforms, excluding manufacturers unless retail is the primary business model.
+- Technology/Telecom: software companies, SaaS providers, IT services, cloud infrastructure, telecommunications providers, hardware technology companies, and digital platforms.
+- Transportation & Logistics Services: freight carriers, logistics providers, supply chain services, shipping companies, warehousing and distribution firms where moving goods or managing logistics is the core function.
 
 Confidence guidance:
 - 0.85–1.00 strong evidence
