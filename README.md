@@ -49,6 +49,8 @@ source .venv/bin/activate
 
 
 ## Environment Configuration
+To specify your credentials and other details, create a file in this directory called `.env`. You can copy the included dot_env_template file to do this. Just copy the file, calling the copy `.env`. Then edit `.env` so the OPENAI_API_KEY environment variable contains the API key you want to use for this work. 
+
 ```
 OPENAI_API_KEY=your_api_key_here
 OPENAI_MODEL=gpt-4.1
